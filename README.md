@@ -3,8 +3,16 @@ Intelligent Timetable for Microsoft Excel™ with useful features
 ![Timetable blur](http://silas229.pe.hu/lib/img/Stundenplan-01.png)
 
 # Download
-### German Versions
-[Classic Version with double lessons](https://github.com/silas229/excel-timetable/blob/master/timetable-double-german.xlsx)
+German Versions | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-double-german.xlsx) | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-single-german.xlsx) | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-double-german-10hours.xlsx) | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-single-german-10hours.xlsx)
+--- | --- | --- | --- | ---
+Stunden | 8 | 8 | 10 | 10
+Doppelstunden | Ja | Nein | Ja | Nein
+
+English Versions | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-double-english.xlsx) | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-single-english.xlsx) | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-double-english-10hours.xlsx) | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-single-english-10hours.xlsx)
+--- | --- | --- | --- | ---
+Lessons | 8 | 8 | 10 | 10
+Double Lessons | Yes | No | Yes | No
+
 # Tutorial
   ```
 NOTE:

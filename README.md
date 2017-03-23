@@ -5,6 +5,10 @@ Intelligent Timetable for Microsoft Excel™ with useful features
 NOTE:
 This readme is in german. A english version is comming soon!
   ```
+# Download
+### German Versions
+[Classic Version with double lessons without modify lesson times (comming soon!)](https://github.com/silas229/excel-timetable/blob/master/timetable-classic-german.xlsx)
+# Tutorial
 ## Bedienung
 ### AutoFill-Vorschläge
 ![AutoFill image](http://silas229.pe.hu/lib/img/Stundenplan-04.png)<br>

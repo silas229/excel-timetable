@@ -1,21 +1,22 @@
 # excel Timetable
 Intelligent Timetable for Microsoft Excel™ with useful features
 ![Timetable blur](http://silas229.pe.hu/lib/img/Stundenplan-01.png)
-  ```
-NOTE:
-This readme is in german. A english version is comming soon!
-  ```
+
 # Download
 ### German Versions
-[Classic Version with double lessons without modify lesson times (comming soon!)](https://github.com/silas229/excel-timetable/blob/master/timetable-classic-german.xlsx)
+[Classic Version with double lessons](https://github.com/silas229/excel-timetable/blob/master/timetable-double-german.xlsx)
 # Tutorial
+  ```
+NOTE:
+This tutorial is in german. A english version is comming soon!
+  ```
 ## Bedienung
 ### AutoFill-Vorschläge
 ![AutoFill image](http://silas229.pe.hu/lib/img/Stundenplan-04.png)<br>
 Wenn die ersten Buchstaben eines Faches eingegeben werden, erscheint ein Vorschlag, der mit der `↵ Enter-Taste` bestätigt werden kann.
 ### DropDown-Menü
 ![Dropdown image](http://silas229.pe.hu/lib/img/Stundenplan-03.png)<br>
-Neben der ausgewählten Stunde erscheint ein DropDown-Menü `🔽`, beim Klick darauf lässt sich ein Fach auswählen.
+Neben der ausgewählten Stunde erscheint ein DropDown-Menü ``, beim Klick darauf lässt sich ein Fach auswählen.
 ## Schuljahr hinzufügen
 ![AddSchoolYear #1 image](http://silas229.pe.hu/lib/img/Stundenplan-02.png)<br>
 "Testklasse" kopieren:<br>

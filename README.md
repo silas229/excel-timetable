@@ -1,5 +1,5 @@
-# excel Timetable
-Intelligent Timetable for Microsoft Excel™ with useful features
+# Excel Timetable
+Intelligent Timetable for <a href="https://products.office.com/excel" target="_blank"><img alt="Microsoft Excel™" src="http://thevideoanalyst.com/wp-content/uploads/2016/11/connector-excel-logo.png" height="16px"></a> with useful features<br>
 ![Timetable blur](http://silas229.pe.hu/lib/img/Stundenplan-01.png)
 
 # Download

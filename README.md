@@ -3,10 +3,13 @@ Intelligent Timetable for <a href="https://products.office.com/excel" target="_b
 ![Timetable blur](http://silas229.pe.hu/lib/img/Stundenplan-01.png)
 
 # Download
+
 German Versions | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-double-german.xlsx) | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-single-german.xlsx) | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-double-german-10hours.xlsx) | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-single-german-10hours.xlsx)
 --- | --- | --- | --- | ---
 Stunden | 8 | 8 | 10 | 10
 Doppelstunden | Ja | Nein | Ja | Nein
+
+
 
 English Versions | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-double-english.xlsx) | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-single-english.xlsx) | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-double-english-10hours.xlsx) | [Download](https://github.com/silas229/excel-timetable/blob/master/timetable-single-english-10hours.xlsx)
 --- | --- | --- | --- | ---
@@ -24,7 +27,7 @@ This tutorial is in german. A english version is comming soon!
 Wenn die ersten Buchstaben eines Faches eingegeben werden, erscheint ein Vorschlag, der mit der `↵ Enter-Taste` bestätigt werden kann.
 ### DropDown-Menü
 ![Dropdown image](http://silas229.pe.hu/lib/img/Stundenplan-03.png)<br>
-Neben der ausgewählten Stunde erscheint ein DropDown-Menü ``, beim Klick darauf lässt sich ein Fach auswählen.
+Neben der ausgewählten Stunde erscheint ein DropDown-Menü :arrow_down_small:, beim Klick darauf lässt sich ein Fach auswählen.
 ## Schuljahr hinzufügen
 ![AddSchoolYear #1 image](http://silas229.pe.hu/lib/img/Stundenplan-02.png)<br>
 "Testklasse" kopieren:<br>

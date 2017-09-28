@@ -4,14 +4,14 @@ Intelligent Timetable for <a href="https://products.office.com/excel" target="_b
 
 # Download
 
-English Versions <img src="http://silas229.de/lib/img/flags/en.png"> | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-double-english.xlsx) | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-single-english.xlsx) | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-double-english-10hours.xlsx) | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-single-english-10hours.xlsx)
+English Versions <img src="http://silas229.de/lib/img/flags/en.png"> | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-double-english.xlsm) | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-single-english.xlsm) | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-double-english-10hours.xlsm) | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-single-english-10hours.xlsm)
 --- | --- | --- | --- | ---
 Lessons | 8 | 8 | 10 | 10
 Double Lessons | Yes | No | Yes | No
 
 
 
-German Versions <img src="http://silas229.de/lib/img/flags/de.png"> | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-double-german.xlsx) | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-single-german.xlsx) | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-double-german-10hours.xlsx) | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-single-german-10hours.xlsx)
+German Versions <img src="http://silas229.de/lib/img/flags/de.png"> | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-double-german.xlsm) | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-single-german.xlsm) | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-double-german-10hours.xlsm) | [Download](https://github.com/silas229/excel-timetable/raw/master/timetable-single-german-10hours.xlsm)
 --- | --- | --- | --- | ---
 Stunden | 8 | 8 | 10 | 10
 Doppelstunden | Ja | Nein | Ja | Nein

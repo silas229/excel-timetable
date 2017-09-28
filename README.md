@@ -4,24 +4,15 @@ Intelligent Timetable for <a href="https://products.office.com/excel" target="_b
 
 # Download
 
-English Versions <img src="http://silas229.de/lib/img/flags/en.png"> | 
-[Download](https://github.com/silas229/excel-timetable/releases/download/v2.english/timetable-double.xlsm) | 
-[Download](https://github.com/silas229/excel-timetable/releases/download/v2.english/timetable-single.xlsm) | 
-[Download](https://github.com/silas229/excel-timetable/releases/download/v2.english/timetable-double-10hours.xlsm) | 
-[Download](https://github.com/silas229/excel-timetable/releases/download/v2.english/timetable-single-10hours.xlsm) | 
-[Download](https://github.com/silas229/excel-timetable/archive/v2.english.zip)
+English Versions <img src="http://silas229.de/lib/img/flags/en.png"> | [Download](https://github.com/silas229/excel-timetable/releases/download/v2.english/timetable-double.xlsm) | [Download](https://github.com/silas229/excel-timetable/releases/download/v2.english/timetable-single.xlsm) | [Download](https://github.com/silas229/excel-timetable/releases/download/v2.english/timetable-double-10hours.xlsm) | [Download](https://github.com/silas229/excel-timetable/releases/download/v2.english/timetable-single-10hours.xlsm) | [Download](https://github.com/silas229/excel-timetable/archive/v2.english.zip)
 --- | --- | --- | --- | --- | ---
 Lessons | 8 | 8 | 10 | 10 | All
 Double Lessons | Yes | No | Yes | No | versions
 
 
 
-German Versions <img src="http://silas229.de/lib/img/flags/de.png"> | 
-[Download](https://github.com/silas229/excel-timetable/releases/download/v2.german/timetable-double.xlsm) | 
-[Download](https://github.com/silas229/excel-timetable/releases/download/v2.german/timetable-single.xlsm) | 
-[Download](https://github.com/silas229/excel-timetable/releases/download/v2.german/timetable-double-10hours.xlsm) | 
-[Download](https://github.com/silas229/excel-timetable/releases/download/v2.german/timetable-single-10hours.xlsm) | 
-[Download](https://github.com/silas229/excel-timetable/archive/v2.german.zip)
+
+German Versions <img src="http://silas229.de/lib/img/flags/de.png"> | [Download](https://github.com/silas229/excel-timetable/releases/download/v2.german/timetable-double.xlsm) | [Download](https://github.com/silas229/excel-timetable/releases/download/v2.german/timetable-single.xlsm) | [Download](https://github.com/silas229/excel-timetable/releases/download/v2.german/timetable-double-10hours.xlsm) | [Download](https://github.com/silas229/excel-timetable/releases/download/v2.german/timetable-single-10hours.xlsm) | [Download](https://github.com/silas229/excel-timetable/archive/v2.german.zip)
 --- | --- | --- | --- | --- | ---
 Stunden | 8 | 8 | 10 | 10 | Alle
 Doppelstunden | Ja | Nein | Ja | Nein | Versionen

@@ -18,7 +18,7 @@ Stunden | 8 | 8 | 10 | 10 | Alle
 Doppelstunden | Ja | Nein | Ja | Nein | Versionen
 
 # English tutorial
->For a <img src="http://silas229.de/lib/img/flags/de.png"> german tutorial click [here](#tutorial-deutsch).
+>For a <img src="http://silas229.de/lib/img/flags/de.png"> german tutorial click [here](#deutsches-tutorial).
 
 ## Installation
 Excel Timetable is on Windows and macOS compativle with Microsoft™ Excel™ 2007 or higher.<br>

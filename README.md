@@ -21,7 +21,7 @@ Doppelstunden | Ja | Nein | Ja | Nein | Versionen
 >For a <img src="http://silas229.de/lib/img/flags/de.png"> german tutorial click [here](#deutsches-tutorial).
 
 ## Installation
-Excel Timetable is on Windows and macOS compativle with Microsoft™ Excel™ 2007 or higher.<br>
+Excel Timetable is on Windows and macOS compatible with Microsoft™ Excel™ 2007 or higher.<br>
 For a download version overview click [here](#download).<br>
 ![SecurityWarning #1 image](http://www.silas229.de/lib/img/timetable/en/01.png)<br>
 After opening the downloaded file, click on `Enable Content` in the security warning.
@@ -58,7 +58,7 @@ The header automatically adapts to the workbook title. The footer displays the c
 Excel Timetable ist auf Windows und macOS kompatibel mit Microsoft® Excel® 2007 oder höher.<br>
 Für eine Download-Übersicht [hier](#download) klicken.<br>
 ![SecurityWarning #1 image](http://www.silas229.de/lib/img/timetable/de/01.png)<br>
-Nach dem Öffnen der heruntergeladenen Datei bei der Sicherheitswarnung auf `Inhalte aktivieren` klicken.
+Nach dem Öffnen der heruntergeladenen Datei bei der Sicherheitswarnung auf `Inhalt aktivieren` klicken.
 
 ## Bedienung
 ### AutoFill-Vorschläge

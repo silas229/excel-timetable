@@ -1,5 +1,5 @@
 # Excel Timetable
-Intelligent Timetable for <a href="https://products.office.com/excel" target="_blank"><img alt="Microsoft Excel™" src="http://thevideoanalyst.com/wp-content/uploads/2016/11/connector-excel-logo.png" height="16px"></a> with useful features. Tested on Excel 2017, 2013 and 2016.<br>
+Intelligent Timetable for <a href="https://products.office.com/excel" target="_blank"><img alt="Microsoft Excel™" src="http://thevideoanalyst.com/wp-content/uploads/2016/11/connector-excel-logo.png" height="16px"></a> with useful features. Tested on Excel 2007, 2013 and 2016.<br>
 ![Timetable blur](http://silas229.de/lib/img/Stundenplan-01.png)
 
 # Download
